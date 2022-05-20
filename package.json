@@ -14,7 +14,7 @@
     "restful",
     "api"
   ],
-  "author": "LaluPrasad",
+  "author": "Tarun Bisht",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
